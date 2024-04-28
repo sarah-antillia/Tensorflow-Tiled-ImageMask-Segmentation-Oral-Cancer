@@ -83,7 +83,7 @@ Applied Sciences: 2020, 10(22), 8285; https://doi.org/10.3390/app10228285  [PDF]
 
 <h3>
 <a id="2">
-2 Oral Cancer ImageMask Dataset
+2 Tiled Oral Cancer ImageMask Dataset
 </a>
 </h3>
  If you would like to train this Tiled-Oral-Cancer Segmentation model by yourself,
