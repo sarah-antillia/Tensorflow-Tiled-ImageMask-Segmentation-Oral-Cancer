@@ -8,7 +8,7 @@ Tiled-ORCA-ImageMask-Dataset-V2.zip (Random-Shuffled Version)</a>
 <br>
 As shown in <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Oral-Cancer">
 Tensorflow-Tiled-Image-Segmentation-Oral-Cancer</a>,
-we have already applied a Tiled Image Segmentation strategy to a Oral Cancer Segmentation UNet Model.<br><br>
+we have already applied a Tiled Image Segmentation strategy to an Oral Cancer Segmentation UNet Model.<br><br>
 This is the second experiment applying the strategy to the Oral-Cancer Segmentation Model. In this experiment, we used a pre-created Tiledly Splitted ImageMask Dataset to train and validate a UNet model, 
 instead of a Size Reduced ImageMask Dataset which was used in 
 <a href="https://github.com/sarah-antillia/Tensorflow-Tiled-Image-Segmentation-Oral-Cancer">
